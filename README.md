@@ -24,7 +24,8 @@ My main focus of research is healthcare. I have published 6 papers, collaborated
 
 *   🌍  I'm based in Chennai, India
 *   ✉️  You can contact me at [rach.nallathamby@gmail.com](mailto:rach.nallathamby@gmail.com)
-*   🧠  I'm learning Power BI
+*   🧠  I'm a Tableau Expert
+*   
 *   🤝  I'm open to collaborating on Machine Learning and Deep Learning Projects
 *   ### Skills 
 <p align="left">
