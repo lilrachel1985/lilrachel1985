@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Hi 👋 My name is Rachel
 =======================
 
-Data Analyst | Data Analytics Trainer and Researcher
+Educator | Data Science Researcher | Virtual Speaker
 ----------------------------------------------------
 
 My main focus of research is healthcare. I have published 6 papers, collaborated on 1 patent in Blockchain and also co-authored 2 book chapters. I have 4+ years of teaching experience and 8+ years of research. I have taught more than 300+ students and mentored 20+ students.
